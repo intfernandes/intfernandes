@@ -4,7 +4,7 @@ A 3 years experienced mobile developer (Flutter), for now...
 ### &#x1F4EC; Contacts
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:int2.fernandes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernandes-a296bb7b/)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lucasfernandes93/)
 
 ### &#128295; Skills
 
