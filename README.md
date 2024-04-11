@@ -15,7 +15,7 @@ A 3 years experienced mobile developer (Flutter), for now...
 
 ### &#x1F680; Experience
 
-Currently, I'm migrating the App [Facilita Vendas](https://play.google.com/store/apps/details?id=app.facilita&hl=pt_BR&gl=US) to Flutter. We've done more than half of the project, and we'll soon complete it and start developing new features &#128246;
+Currently, I'm migrating the App [Facilita Vendas](https://play.google.com/store/apps/details?id=app.facilita&hl=pt_BR&gl=US) to Flutter. We've done more than half of the project. Soon, we'll complete it and start developing new features &#128246;
 
 ### &#128142; Learning 
 
