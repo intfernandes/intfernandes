@@ -1,4 +1,3 @@
-<br></br>
 ### &#127760; Lucas Fernandes
 A 3 years experienced mobile developer (Flutter), for now...
 
