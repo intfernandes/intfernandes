@@ -1,5 +1,5 @@
 ### &#127760; Lucas Fernandes
-A 3 years experienced mobile developer (Flutter), for now...
+A 4 years experienced mobile developer (Flutter), for now...
 
 ### &#x1F4EC; Contacts
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:int2.fernandes@gmail.com)
